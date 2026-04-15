@@ -1,5 +1,5 @@
 ```
-secure-app/
+secure-app-good/
 ├── app/
 │   └── main.py
 ├── requirements.txt
