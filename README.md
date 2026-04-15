@@ -48,3 +48,4 @@ A small but realistic DevSecOps demonstration application built with Flask, secu
 |--------|----------|-------------|
 | GET | `/health` | Health check |
 | POST | `/greet` | Greet a valid username |
+
