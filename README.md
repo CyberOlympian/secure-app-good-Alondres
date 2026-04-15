@@ -1,3 +1,4 @@
+```
 secure-app/
 ├── app/
 │   └── main.py
@@ -8,3 +9,4 @@ secure-app/
 └── .github/
     └── workflows/
         └── devsecops-pipeline.yml
+```
