@@ -13,7 +13,7 @@ env:
 jobs:
 
   # ─── Job 1: Secret Scan ───────────────────────────────────────────────────
-secret-scan:
+  secret-scan:
     name: Secret Scan (TruffleHog)
     runs-on: ubuntu-latest
     steps:
