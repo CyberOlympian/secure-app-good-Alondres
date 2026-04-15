@@ -13,7 +13,7 @@ secure-app-good/
         └── devsecops-pipeline.yml
 ```
 
-# secure-app
+# secure-app-good
 
 A small but realistic DevSecOps demonstration application built with Flask, secured and validated through a multi-stage GitHub Actions CI pipeline.
 
